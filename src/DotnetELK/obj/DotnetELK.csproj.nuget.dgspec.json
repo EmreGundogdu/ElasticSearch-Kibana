@@ -58,9 +58,17 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "serilog.exceptions": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
             "serilog.sinks.debug": {
               "target": "Package",
               "version": "[2.0.0, )"
+            },
+            "serilog.sinks.elasticsearch": {
+              "target": "Package",
+              "version": "[9.0.1, )"
             }
           },
           "imports": [
